@@ -1,0 +1,6 @@
+- Note trict to remove (.0)
+Ex:
+	meaning = 42.0
+	>>> meaning => 42.0
+	>>> meaning = round(meaning) 
+	>>> meaning=> 42
